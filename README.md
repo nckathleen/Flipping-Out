@@ -18,4 +18,4 @@ at the command line of the same folder.  Ipython notebook is also required to ru
 
     ipython notebook
 
-Once in the notebook, click on Flipping Out and see the magic!
+Once in the notebook, click on coin-flips.ipynb and see the magic!
